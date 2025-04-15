@@ -11,7 +11,7 @@ Ao final, os jogadores podem ter uma ideia do seu nível de conhecimento sobre o
 
 ## Como Jogar
 
-1.  Abra o arquivo `index.html` no seu navegador web.
+1.  Abra o arquivo `index.html` no seu navegador web ou click no link da descrição.
 2.  Leia cada pergunta com atenção e selecione/escreva a resposta que você acredita ser a correta.
 3.  Após responder todas as perguntas, clique no botão "Revelio!" para ver sua pontuação.
 4.  O resultado mostrará o número de respostas corretas que você obteve e o seu Nível de Bruxo.
