@@ -30,7 +30,6 @@ Ao final, os jogadores podem ter uma ideia do seu nível de conhecimento sobre o
     * Estilização visual com CSS para uma experiência mais imersiva.
     * Interatividade com JavaScript para feedback imediato, animações, etc.
     * Diferentes níveis de dificuldade.
-    * Armazenamento de pontuações (localmente ou online).
     * Compartilhamento de resultados em redes sociais.
 
 ## Observação.
