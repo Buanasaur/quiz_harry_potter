@@ -35,5 +35,5 @@ Ao final, os jogadores podem ter uma ideia do seu nível de conhecimento sobre o
 
 ## Observação.
 
-* As imagens contidas no quiz e favicon são do Pinterest.
+* As imagens contidas no quiz e favicon foram retiradas do Pinterest.
 
