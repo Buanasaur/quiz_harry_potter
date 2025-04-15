@@ -35,5 +35,6 @@ Ao final, os jogadores podem ter uma ideia do seu nível de conhecimento sobre o
 
 ## Observação.
 
-* As imagens contidas no quiz e favicon foram retiradas do Pinterest.
+* As imagens no quiz e favicon foram retiradas do Pinterest.
+* Questões elaboradas com o auxílio do Gemini (IA do Google), utilizado para melhorar ou reformular algumas questões.
 
